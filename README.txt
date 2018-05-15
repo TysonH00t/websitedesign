@@ -3,4 +3,6 @@ The code is unoptimized and it is meant to only be viewed on a desktop computer.
 All code was written by me.
 Besides the links between templates all links are fake.
 
+View template photos for quick easy viewing of individual templates.
+
 View the template at https://tysonh00t.github.io/websitedesign/
